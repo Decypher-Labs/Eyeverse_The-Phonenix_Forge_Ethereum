@@ -16,7 +16,20 @@ Decypher Labs is at the forefront blockchain innovation, specializing in the dev
 
 ## Getting Started
 
-(Instructions remain the same)
+### Requirements
+
+- A web3-enabled browser (e.g., Chrome with MetaMask, Brave, or Firefox with MetaMask).
+- An Ethereum wallet with Eyeverse NFTs and a balance of ETH for transaction fees.
+
+### Steps to Engage
+
+1. **Connect Your Wallet**: Visit [Eyeverse Staking DApp](https://forge.eyeverse.world/) and connect your Ethereum wallet.
+
+2. **Wrap Your NFTs**: Select the Eyeverse NFTs you wish to wrap into Reincarnated NFTs and confirm the transaction.
+
+3. **Stake Reincarnated NFTs**: Choose your Reincarnated NFTs for staking and select the duration to earn Golden Slags.
+
+4. **Claim Rewards**: After the staking period, claim your accumulated Golden Slags directly to your wallet.
 
 ## Interface Overview
 
